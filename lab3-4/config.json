@@ -1,0 +1,9 @@
+{
+    "lambda_attacks": 5,
+    "ids_mu": 4,
+    "ids_sigma": 1,
+    "ips_mu": 5,
+    "ips_sigma": 2.5,
+    "ips_block_rate": 0.85,
+    "correct_detection": 0.95
+}
